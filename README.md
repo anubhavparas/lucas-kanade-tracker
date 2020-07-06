@@ -58,5 +58,5 @@ Go to directory:  _cd 'Code/_
 
 ### References:
 - [Simon and Matthew’s paper - Lucas-Kanade 20 Years On: A Unifying Framework](https://www.ri.cmu.edu/pub_files/pub3/baker_simon_2002_3/baker_simon_2002_3.pdf)
-- [Lecture 10 - Lucas-Kanade Tracker (KLT)](https://www.youtube.com/watch?v=tzO245uWQxA)
+- [Lecture on Lucas-Kanade Tracker (KLT) by Dr. Mubarak Shah (University of Florida)](https://www.youtube.com/watch?v=tzO245uWQxA)
 - [Optical-Flow using Lucas Kanade for Motion Tracking](https://www.youtube.com/watch?v=1r8E9uAcn4E)
