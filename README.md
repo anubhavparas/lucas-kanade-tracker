@@ -17,7 +17,7 @@ current frame.
 - The function iteratively (gradient descent) computes the new warping parameters p<sub>new</sub>, and returns these
 parameters.
 - The algorithm computes the affine transformations from the template to every frame in the sequence and draws the bounding boxes of the rectangles warped from the first frame.
-- Elaborate explanation about the approach and the pipeline can be found in the [report](.Report.pdf)
+- Elaborate explanation about the approach and the pipeline can be found in the [report](Report.pdf)
 
 ### Output:
 
